@@ -1,0 +1,22 @@
+[
+    {
+        "title": "zz-admin-vue3-template",
+        "value": "direct:http://git.devops.zhizukj.com/zzfe/zz-admin-vue3-template.git#master",
+        "description": "基于vue3的admin模板"
+    },
+    {
+        "title": "zz-uniapp-template",
+        "value": "direct:http://git.devops.zhizukj.com/zzfe/zz-uniapp-template.git#master",
+        "description": "基于uniapp(vue2)的微信小程序, 单页H5模板"
+    },
+    {
+        "title": "zz-h5-mpa-template",
+        "value": "direct:http://git.devops.zhizukj.com/zzfe/zz-h5-mpa-template.git#master",
+        "description": "基于vue3的多页面h5模板"
+    },
+    {
+        "title": "zhizu-admin-children",
+        "value": "direct:http://git.devops.zhizukj.com/ganyu/boss20-children.git#master",
+        "description": "基于qiankun的子应用模板"
+    }
+]
